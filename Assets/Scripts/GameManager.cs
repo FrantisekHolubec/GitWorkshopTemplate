@@ -1,5 +1,6 @@
 using UnityEngine;
 
+// Oops this text should not be here at all!
 public class GameManager : MonoBehaviour
 {
     private void Awake()
