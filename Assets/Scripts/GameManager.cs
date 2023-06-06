@@ -6,6 +6,7 @@ public class GameManager : MonoBehaviour
     {
         Debug.Log("Yes! Game just started");
         // This game is lovely
+        // But this comment is useless
     }
 
     private void OnDestroy()
